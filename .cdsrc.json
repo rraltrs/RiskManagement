@@ -2,7 +2,7 @@
 {
     "[development]": {
       "auth": {
-       "passport": {
+       "passpogit rt": {
         "strategy": "mock",
         "users": {
           "risk.viewer@tester.sap.com": {
